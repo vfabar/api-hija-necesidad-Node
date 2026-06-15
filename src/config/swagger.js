@@ -10,7 +10,7 @@ const options = {
         },
         servers: [
             {
-                url: 'http://localhost:8080/need-node',
+                url: 'http://localhost:8080/need-node/api',
                 description: 'A través del API Gateway (Recomendado)'
             },
             {
